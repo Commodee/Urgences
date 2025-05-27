@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projection des variables pour les diagnostics sur les deux premières composantes principales. Les flèches indiquent l'importance relative de chaque variable dans la formation des composantes principales.</title>
+  <style>
+    body {
+      background: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <img src="images/var_diag.png" alt="Description de l'image" />
+</body>
+</html>
